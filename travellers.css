@@ -1,0 +1,69 @@
+.footer
+{
+    background-color:black ;
+    color: #ffffff;
+    height: 20%;
+
+}
+.header
+{
+    height: 50%;
+    background-image: url("photos/header.jpg");
+    width: 100%;
+    color: white;
+}
+
+.container
+{
+    height: 20%;
+    background-color: brown;
+
+}
+
+.article
+{
+    height: 20%;
+    background-color: darkcyan;
+
+}
+.aside
+{
+    height: 20%;
+    background-color: gainsboro;
+
+}
+
+.post1
+{
+    background-color:#eee;
+    height:300px;
+    width:50%;
+    float:left;
+}
+.post2
+{
+    background-color: brown;
+    height:300px;
+    width:50%;
+    float:right;
+}
+.post3
+{
+    background-color: darkred;
+    height:300px;
+    width:50%;
+    float:left;
+}
+.post4
+{
+    background-color: blue;
+    height:300px;
+    width:50%;
+    float:right;
+}
+.about
+{
+    align-content: center;
+    height:200px;
+}
+
